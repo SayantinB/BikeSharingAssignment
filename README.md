@@ -40,7 +40,7 @@ scikit-learn - version 1.2.2
 
 
 ## Acknowledgements
-This project was inspired by UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
+This project was inspired by UpGrad tutorials on Linear Regression  on the learning platform
 
 
 ## Contact
